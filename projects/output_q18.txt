@@ -1,0 +1,4 @@
+This is the first line.
+Writing data overwrites existing files.
+This line is appended.
+Appending adds to the end.
